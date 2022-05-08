@@ -7,6 +7,6 @@ In this project we are interfacing 16x2 display with Arduino UNO. Here Arduino U
   <img 
     width="300"
     height="300"
-    src="Images/ "
+    src="Images/LED Interface.png"
   >
 </p>
