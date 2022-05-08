@@ -10,7 +10,7 @@ In this project we are interfacing 16x2 display with Arduino UNO. Here Arduino U
   >
 </p>
 
-'''
+```
 
 #include <LiquidCrystal.h>
 
@@ -93,4 +93,4 @@ void loop()
   delay(1);      
 }
 
-'''
+```
