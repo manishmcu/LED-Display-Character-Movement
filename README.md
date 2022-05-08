@@ -5,7 +5,7 @@ In this project we are interfacing 16x2 display with Arduino UNO. Here Arduino U
 
 <p align="center">
   <img 
-    width="300"
+//    width="300"
     height="300"
     src="Images/LED Interface.png"
   >
