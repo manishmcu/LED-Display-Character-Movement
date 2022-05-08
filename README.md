@@ -11,7 +11,7 @@ In this project we are interfacing 16x2 display with Arduino UNO. Here Arduino U
 </p>
 
 ### Coding
-
+<
 #include <LiquidCrystal.h>
 
 // Connections:
@@ -76,7 +76,6 @@ void charMove()
     j+=1;
   }}
 
-
 void loop()
 {
   // Turn on the display:
@@ -92,3 +91,4 @@ void loop()
   Serial.println(valor_sensor);
   delay(1);      
 }
+>
