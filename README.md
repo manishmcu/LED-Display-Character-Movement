@@ -10,6 +10,8 @@ In this project we are interfacing 16x2 display with Arduino UNO. Here Arduino U
   >
 </p>
 
+### Coding here:
+
 ```
 
 #include <LiquidCrystal.h>
